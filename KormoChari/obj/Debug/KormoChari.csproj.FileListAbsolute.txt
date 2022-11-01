@@ -1,0 +1,46 @@
+C:\Users\Shihab\source\repos\KormoChari\bin\Debug\KormoChari.exe.config
+C:\Users\Shihab\source\repos\KormoChari\bin\Debug\KormoChari.exe
+C:\Users\Shihab\source\repos\KormoChari\bin\Debug\KormoChari.pdb
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.csproj.AssemblyReference.cache
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Properties.Resources.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Startpage.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.csproj.GenerateResource.cache
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.csproj.CoreCompileInputs.cache
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.exe
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.pdb
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.LoginPrompt.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Form3.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Form4.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Form5.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Admin.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.EmpDash.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Emplve.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.EmpProfile.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Form7.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Form8.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Form9.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Notice.resources
+C:\Users\Shihab\source\repos\KormoChari\obj\Debug\KormoChari.Notice_Admin.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\bin\Debug\KormoChari.exe.config
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\bin\Debug\KormoChari.exe
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\bin\Debug\KormoChari.pdb
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.csproj.AssemblyReference.cache
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Admin.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.EmpDash.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Emplve.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.EmpProfile.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Form3.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Form4.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Form5.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Form7.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Form8.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Form9.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.LoginPrompt.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Notice.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Notice_Admin.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Properties.Resources.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.Startpage.resources
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.csproj.GenerateResource.cache
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.csproj.CoreCompileInputs.cache
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.exe
+D:\CSE AIUB\FALL 21-22\OBJECT ORIENTED PROGRAMMING 2 [I]\KormoChari\obj\Debug\KormoChari.pdb
